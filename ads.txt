@@ -1,2 +1,11 @@
-# ads.txt for mumumumuyi.github.io
+# ads.txt for AI Chronicle 2026 (mumumumuyi.github.io/ai-chronicle-2026)
+# Standard Publisher Verification File for Programmatic Ad Networks
+
+# 1. Google AdSense (Verified Official Publisher ID)
 google.com, pub-8861051283907117, DIRECT, f08c47fec0942fa0
+
+# 2. BuySellAds / Carbon Ads (Tech-focused premium network)
+# buysellads.com, DIRECT
+
+# 3. EthicalAds (Developer & Open-Source Ad Network)
+# ethicalads.io, DIRECT
