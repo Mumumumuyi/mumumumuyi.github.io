@@ -1,0 +1,2 @@
+# ads.txt for mumumumuyi.github.io
+google.com, pub-8861051283907117, DIRECT, f08c47fec0942fa0
